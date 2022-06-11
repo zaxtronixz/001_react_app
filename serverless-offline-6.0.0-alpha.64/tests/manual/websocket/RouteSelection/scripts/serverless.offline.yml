@@ -1,0 +1,6 @@
+plugins:
+  - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 3004
